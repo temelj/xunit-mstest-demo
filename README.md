@@ -4,6 +4,8 @@ This project is used to demonstrate that the latest Microsoft.NET.Test.Sdk (16.5
 
 All projects are targeting the .NET Core 2.2 Framework.
 
+> See Related Issue: https://github.com/microsoft/vstest-docs/issues/225
+
 ## XUnit-2.4-NetTestSdk-16.2
 This test runs the assert correctly and generates the appropriate test result.
 
